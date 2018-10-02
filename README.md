@@ -12,4 +12,9 @@ for running ManageIq integration tests. Unfortunately, since the resources are
 limited locally, I plan to redo the installation on my AWS server that houses
 ManageIq currently.
 
+### Update 2nd October:
+* Collection conversion of Menu (Merged)
+* Collection conversion of Assignment (Almost merged. Mostly today itself)
+* Collection conversion of Config Management( PR Created. Need to fix a few failing tests)
+
 ## Amritraj Singh:
